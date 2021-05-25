@@ -1,3 +1,15 @@
+CURSO DE REACT 
+Raúl Palacios
+https://www.youtube.com/watch?v=yFAIMEupsuo&list=PLIddmSRJEJ0vEBB6ECegg35IQ-sWjSDdo
+
+# SETUP
+Para instalar todos los módulos que usa el proyecto (y que no se suben a GitHub ya que se ignora la carpeta node_module)
+### npm-install-all
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -11,8 +11,6 @@ function getName(user) {
 }
 
 function App() {
-  // const nombre = 'Alejandro'
-  // const apellido = 'Ciravegna'
 
   const elemento = (
     <div>
