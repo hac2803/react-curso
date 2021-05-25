@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=yFAIMEupsuo&list=PLIddmSRJEJ0vEBB6ECegg35IQ-sWjS
 
 # SETUP
 Para instalar todos los módulos que usa el proyecto (y que no se suben a GitHub ya que se ignora la carpeta node_module)
-### npm-install-all
+### `npm-install-all`
 
 
 
